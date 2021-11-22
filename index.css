@@ -1,0 +1,92 @@
+*{
+    width: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 1mm;
+   
+    
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.total{
+    padding: 0.3cm 0.8cm;
+}
+body{
+    width: 60%;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+.title{
+    margin-bottom: -0.05cm;
+    font-size: 0.7cm;
+    font-weight: 700;
+}
+h3{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 1.8rem;
+    font-weight: 700;
+    line-height: 1.33333;
+    margin-top: 2.4rem;
+    width: 100%;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0;
+    margin-top: 2px;
+}
+.CR{
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 0.6cm;
+
+    font-weight: 600;
+    line-height: 1.33333;
+    margin: 0 0 .9rem;
+    padding: .1rem 2rem 0 0;
+}
+.link{
+    font-size: 0.6cm;
+    font-weight: 600;
+    line-height: 1.33333;
+    margin: 0 0 .9rem;
+    padding: .1rem 2rem 0 0;
+    
+}
+hr{
+    margin-top: -0.2cm;
+}
+li{
+    list-style-type: "- ";
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ table{  
+    
+    border-collapse: collapse; 
+    width: 100%; 
+}
+td,th{
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+  
+}  
+.point{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.doubt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.6cm;
+    font-weight: 600;
+    line-height: 1.33333;
+    margin: 0 0 .9rem;
+    padding: .1rem 2rem 0 0;
+}
+tr:nth-child(even) {
+    background-image: radial-gradient(circle, #051937, #004d7a, #008793, #00bf72, #a8eb12);}
+tr:nth-child(odd) {
+    background-image: radial-gradient(circle, #051937, #00375c, #00586f, #007768, #05944d);}
